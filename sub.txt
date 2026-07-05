@@ -1,1 +1,1 @@
-
+vless://93e61cf9-fcac-4dea-b49b-c96ef0b08964@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#%F0%9F%AA%84

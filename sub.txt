@@ -1,16 +1,5 @@
 
 
-vless://8802e9cf-ea50-4261-ed8e-583c32fba185@s1.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#🌟
-
-vless://91a4c88b-d8e7-4dca-9447-cece91bf797e@www.speedtest.net:443?path=%2FeyJqdW5rIjoiVVlPZFB3SVUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-f82221.armanisooso.workers.dev&fp=chrome&type=ws&sni=Ez-f82221.aRmanISOoso.WorkErS.DEV#🤡
-
-vless://fb243f7c-4ff7-4c04-b828-3cfc1422fbfa@45.130.125.201:443?encryption=none&security=tls&sni=voidlatency-u7ub8e.netizo12345678912.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=voidlatency-u7ub8e.netizo12345678912.workers.dev&path=%2F#💫
-
-
-vless://989acc67-84d6-4e9a-9d9f-415b92c626d9@finland.tsew901.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🪅
-
-trojan://MiTiVPN@151.101.193.242:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#☄️
-
 vless://93e61cf9-fcac-4dea-b49b-c96ef0b08964@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#🪄
 
 vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fast3.slopllex.app#🎟️

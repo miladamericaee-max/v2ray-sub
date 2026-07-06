@@ -1,5 +1,23 @@
 
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@de.pascalplus.com:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#🃏
 
+vless://6e5beaba-63e0-4d85-89c3-1f6227bd206a@104.19.151.196:2053?path=%2F&security=tls&encryption=none&insecure=0&host=nova-pixel-garden-9265.nova-c43304.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pixel-garden-9265.nova-c43304.workers.dev#🏍️
+
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@139.162.133.162:58148?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#💨
+
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🎯
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🥇
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cdn.9889888.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🎉
+
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🤹
+
+vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@188.42.88.24:2086?path=%2F&security=&encryption=none&host=Turkey.shopbertar.ir&type=httpupgrade#🏎️
+
+vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@Turkey.shopbertar.ir:8443?security=reality&encryption=none&pbk=Jawsi42z5-YjRpRFXYTR6HBdFXndi4pGBt09htUEmh0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=3fe18998fe88a637#📡
+
+vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@p.shopbertar.ir:2087?security=&encryption=none&host=play.google.com&headerType=none&type=tcp#🔋
 vless://93e61cf9-fcac-4dea-b49b-c96ef0b08964@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#🪄
 
 vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fast3.slopllex.app#🎟️
